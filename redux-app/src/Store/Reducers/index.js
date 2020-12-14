@@ -1,4 +1,4 @@
-//Revisa que acción se va a relizar sobre el state globalizado
+//Revisa que acción se va a realizar sobre el state globalizado
 
 import { combineReducers } from 'redux';
 
